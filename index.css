@@ -1,0 +1,10 @@
+div {
+  margin: 5rem;
+  padding: 5rem;
+  background-color: red;
+  width: fit-content;
+}
+
+img {
+  transform: translate(15px);
+}
